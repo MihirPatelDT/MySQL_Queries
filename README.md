@@ -1,3 +1,5 @@
+# Author - Mihir Patel
+
 # MySQL Queries Work
 
 This repository contains a collection of MySQL queries that I have created for various projects or purposes. The queries are organized in a docx file for easy reference.
